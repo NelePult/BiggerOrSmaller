@@ -1,5 +1,5 @@
 ## BiggerOrSmaller ##
-"Bigger or Smaller" is an interactive guessing game
+"Bigger or Smaller" is an interactive guessing game.
 
 ### About the Project ###
 
