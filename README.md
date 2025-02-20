@@ -1,5 +1,4 @@
 ## BiggerOrSmaller ##
-"Bigger or Smaller" is an interactive guessing game.
 
 ### About the Project ###
 
@@ -15,7 +14,7 @@ If the answer is correct, the player earns a point, and the correct image remain
 
 The game is built using HTML, CSS, and JavaScript.
 
-###Features###
+### Features ###
 
 ✅ Simple & Intuitive Gameplay – Click on the correct option to score points.
 ✅ Diverse Categories – Different attributes keep the game exciting.
@@ -30,9 +29,9 @@ Prerequisites
 To run the game locally, you only need a web browser. No additional dependencies or installations are required.
 Installation
 
-    Clone the repository:
+Clone the repository:
 
- git clone https://github.com/your-username/bigger-or-smaller.git
+     git clone https://github.com/your-username/bigger-or-smaller.git
 
 Navigate to the project folder:
 
