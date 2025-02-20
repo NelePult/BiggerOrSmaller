@@ -1,5 +1,5 @@
 ## BiggerOrSmaller ##
-
+COMING SOON
 ### About the Project ###
 
 "Bigger or Smaller" is an interactive guessing game where players must determine which of two displayed options has the larger value based on a given attribute. 
@@ -39,19 +39,19 @@ Navigate to the project folder:
 
     Open index.html in your browser.
 
-Technologies Used
+## Technologies Used ##
 
     HTML – Page structure
     CSS – Styling & animations
     JavaScript – Game logic & interactions
 
-License
+## License ##
 
 🔹 This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).
 🔹 You are free to use, modify, and share this project for non-commercial purposes.
 🔹 Commercial use is NOT allowed without explicit permission.
 
-Contact
+## Contact ##
 
 👤 Nele Pult
 🔗 
